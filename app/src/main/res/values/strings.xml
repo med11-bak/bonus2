@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Animations</string>
+    <string name="zoom_in"> ZOOM IN</string>
+    <string name="zoom_out">ZOOM OUT</string>
+    <string name="fade_in"> FADE IN</string>
+    <string name="fade_out">FADE OUT</string>
+    <string name="slide_left">SLIDE LEFT</string>
+    <string name="slide_down">slide_down</string>
+    <string name="slide_up">SLIDE_UP</string>
+    <string name="zoom_in_fade_in">ZOOM_IN_FADE_IN</string>
+    <string name="zoom_out_fade_out">ZOOM_OUT_FADE_OUT</string>
+    <string name="rotate">RORATE</string>
+    <string name="move">MOVE</string>
+    <string name="slide_right">SLIDE_RIGHT</string>
+</resources>
